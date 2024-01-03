@@ -1,0 +1,13 @@
+{
+  "localnet": {
+    "delegator": {
+      "code_id": 7,
+      "addresses": {
+        "default": "link1w27ekqvvtzfanfxnkw4jx2f8gdfeqwd3drkee3e64xat6phwjg0skx2z7a"
+      },
+      "proposal": {
+        "store_code": null
+      }
+    }
+  }
+}
